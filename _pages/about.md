@@ -6,21 +6,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-EDUCATION
-======
-Master’s Degree | Robotics/Artificial Intelligence Engineering
-Technical University of Munich
-October 2020 - March 2024
-Thesis: Exploration of Approaches to Counter Hate Speech: The Case of Sexist Speech
+
+M.Sc. | Robotics, Cognition, Intelligence\\
+Technical University of Munich\\
+October 2020 - March 2024\\
+Thesis: Exploration of Approaches to Counter Hate Speech: The Case of Sexist Speech\\
 Supervisor: Apl. Prof. Dr. Georg Groh
 
-Bachelor’s Degree | Mechanical Engineering
-Technical University of Munich
-October 2016 - September 2020
-Thesis: Evaluation of Approaches for Digitizing Printed Electric Circuit Diagrams to Structured and Machine-Interpretable Models Within a Framework
+B.Sc. | Mechanical Engineering\\
+Technical University of Munich\\
+October 2016 - September 2020\\
+Thesis: Evaluation of Approaches for Digitizing Printed Electric Circuit Diagrams to Structured and Machine-Interpretable Models Within a Framework\\
 Supervisor: Prof. Dr.-Ing. Birgit Vogel-Heuser
 
-Exchange Student | Seoul National University
+Exchange Student\\
+Seoul National University\\
 September 2021 - February 2022
 
 A data-driven personal website
